@@ -1,0 +1,1 @@
+This is my public coding profile. This repo contains all the programs and code I wrote while taking my Object-Oriented Software Development certificate at SAIT Polytechnic as well as codes and programming tests I wrote while applying for IT jobs.
